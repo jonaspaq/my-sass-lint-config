@@ -1,0 +1,33 @@
+{
+  "name": "my-sass-linter",
+  "version": "1.0.0",
+  "description": "my-sass-lint config for development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonaspaq/my-sass-lint-config.git"
+  },
+  "keywords": [
+    "Sass",
+    "lint",
+    "scss",
+    "lint",
+    "sass",
+    "scss",
+    "development",
+    "lint"
+  ],
+  "author": "Jonas Paquibot",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jonaspaq/my-sass-lint-config/issues"
+  },
+  "homepage": "https://github.com/jonaspaq/my-sass-lint-config#readme",
+  "sasslintConfig": "PATH/TO/YOUR/CONFIG/FILE",
+  "devDependencies": {
+    "sass-lint": "^1.13.1"
+  }
+}
