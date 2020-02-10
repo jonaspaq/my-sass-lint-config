@@ -2,7 +2,7 @@
 This is a sass lint configuration. Beginner friendly and easy to use.
 
 ## Installation
-<b>Install Sass Lint (VS Code Extension)<b>
+<b>Install Sass Lint (VS Code Extension)</b>
 
 Next, run this command in terminal from your project directory
 ```
