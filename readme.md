@@ -2,10 +2,13 @@
 This is a sass lint configuration. Beginner friendly and easy to use.
 
 ## Installation
-Run this command to your project directory
+<b>Install Sass Lint (VS Code Extension)<b>
+
+Next, run this command in terminal from your project directory
 ```
 npm install sass-lint --save-dev
 ```
+
 
 ## For more information 
 
