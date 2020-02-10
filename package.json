@@ -14,11 +14,7 @@
     "Sass",
     "lint",
     "scss",
-    "lint",
-    "sass",
-    "scss",
-    "development",
-    "lint"
+    "development"
   ],
   "author": "Jonas Paquibot",
   "license": "MIT",
@@ -28,6 +24,7 @@
   "homepage": "https://github.com/jonaspaq/my-sass-lint-config#readme",
   "sasslintConfig": "PATH/TO/YOUR/CONFIG/FILE",
   "devDependencies": {
+    "eslint": "^6.8.0",
     "sass-lint": "^1.13.1"
   }
 }
